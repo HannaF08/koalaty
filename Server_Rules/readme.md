@@ -104,6 +104,7 @@ The following words are used in the city for out-of-city reference:
 
 - 🎭 It is of great importance to NEVER BREAK CHARACTER and always remain consistent with your character’s persona, including accents, behavior, and overall personality.
 - 🧍 Your character defines you as a role-player. Never ignore or intentionally avoid roleplay.
+- * If something doesn't go your way in city, don't run to admins unless you have a valid reason for a person breaking character. 
 
 ## 💥 RDM and VDM
 
@@ -227,15 +228,15 @@ The above rules also apply to the following scenarios:
 - 🔪 Petty Theft (2 max crims)
 
 #### 🕒 Tier 2 (45 min cooldown between scenes)
-- 🐱‍👤 Bobcat Heist (4 max crims)
+- 🐱‍👤 Bobcat Heist (4 max crims) 
 - 💎 Jewellery Store (4 max crims)
 - 🏦 Fleeca Bank (4 max crims)
-- 🏦 Paleto Bank (4 max crims)
+- 🏦 Paleto Bank (4 max crims) * increase to 6 
 
 #### 🕒 Tier 3 (60 min cooldown between scenes)
 - 🏢 Union Heist (6 max crims)
 - 🏦 Main Bank (6 max crims)
-- 💰 CIT Heist (4 max crims) (instant shoot on sight, no hostage allowed)
+- 💰 CIT Heist (4 max crims) (instant shoot on sight, no hostage allowed) * unlimited as the whole PD force can respond seeing that there is no limit for them?
 
 ## 🚑 Netcare 911 Emergency Medical Services
 
