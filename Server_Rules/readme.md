@@ -34,7 +34,8 @@ These rules are set by the Owners of Koalaty Roleplay and will not be changed to
 28. [Netcare 911 Emergency Medical Services](#netcare-911-emergency-medical-services)
 29. [Heist Rules](#heist-rules)
 30. [Koalaty Roleplay Safe Zones](#koalaty-roleplay-safe-zones)
-31. [Warnings and Bans](#warnings-and-bans)
+31. [Government Entities](#government-entities)
+32. [Warnings and Bans](#warnings-and-bans)
 
 ## 👋 Welcome
 
@@ -75,6 +76,7 @@ Welcome to Koalaty Roleplay! Please take a moment to familiarize yourself with o
   - 🚔 Sexual Assault
   - 🚓 Corrupt Law Enforcement Officials
   - 🔞 Erotic Roleplay (Sexual RP)
+  - ⚖️ All legal matters, disputes, and infractions within the server must go through the court system at City Hall. This ensures that justice is served through proper roleplay procedures.
 
 ## 🗣 In-City Words
 
@@ -180,8 +182,8 @@ The following words are used in the city for out-of-city reference:
 - 🚗 Gangs will be limited to a maximum of five gang vehicles.
 - 🤝 Friendly interactions and business arrangements are permitted, but alliances between gangs are strictly prohibited.
 - 🚔 Territory taking is only available when there is sufficient SAPS on duty.
-- ⚠️ Gangs that break gang rules will receive a Strike. Three strikes and the gang will be disbanded.
-- 🚨 SAPS are allowed to intervene at any point during an active gang war.
+- ⚠️ Gangs that break gang rules will receive a Strike. Three strikes will result in the gang being disbanded. All server rules apply to gangs, and failure to comply with these rules will lead to severe consequences, including strikes and potential disbandment. Gangs are expected to operate within the same standards as other players, upholding the integrity of the roleplay experience.
+- 🛡️ The ADT unit works in collaboration with SAPS to enforce the law and handle security matters, especially during criminal activities such as petty theft and small crimes.
 
 ## 🕵️‍♀️ Gang Rules
 
@@ -216,6 +218,7 @@ The above rules also apply to the following scenarios:
 - 🏠 House robbery (2 max crims)
 - 🏪 Store robbery (3 max crims)
 - 🏭 Warehouse robbery (2 max crims)
+- 🔪 Petty Theft (2 max crims)
 
 #### 🕒 Tier 2 (45 min cooldown between scenes)
 - 🐱‍👤 Bobcat Heist (4 max crims)
@@ -227,11 +230,6 @@ The above rules also apply to the following scenarios:
 - 🏢 Union Heist (6 max crims)
 - 🏦 Main Bank (6 max crims)
 - 💰 CIT Heist (4 max crims) (instant shoot on sight, no hostage allowed)
-
-### 🚨 Illegal Activity
-
-- ⏲️ Criminals must wait a total of 25 minutes after the robbery has started for SAPS to respond.
-- 🚫 Locals cannot be used as hostages.
 
 ## 🚑 Netcare 911 Emergency Medical Services
 
@@ -270,8 +268,17 @@ Safe Zones are designated areas where all forms of criminal activity, including 
 - ♻️ Recycling (Both in-city and Paleto)
 - 🚗 All Dealerships
 - 🛠 Both Mechshops
-- 🔫 Red Raven Ammunation
+- 🔫 Koalaty Ammunation
 - 🏦 Koalaty Pawn Shop
+
+## 🏛 Government Entities
+
+Koalaty Roleplay is supported by the following government entities, each responsible for maintaining order and facilitating roleplay within the server:
+
+- 🚓 **SAPS**: The South African Police Service, responsible for law enforcement and public safety.
+- 🚑 **EMS (NetCare)**: Emergency Medical Services, providing medical assistance and care.
+- 🛡 **ADT (Security)**: A security unit that works closely with SAPS to maintain security within the city, particularly dealing with petty theft and small crimes.
+- 🏛 **City Hall (Department of Justice)**: Handles all legal matters, including the court system for resolving disputes and legal cases. Lawyers and legal professionals within the city operate under this department.
 
 ## 🚨 Warnings and Bans
 
