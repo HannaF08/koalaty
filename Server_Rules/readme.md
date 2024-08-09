@@ -187,7 +187,7 @@ The following words are used in the city for out-of-city reference:
 
 ## 🕵️‍♀️ Gang Rules
 
-- 🌍 Gang wars must be played out in Sandy Shores, Paleto Bay, or The Favelas (away from the city), including territory wars.
+- 🌍 Gang wars must be played out in Sandy Shores or Paleto Bay(away from the city), including territory wars.
 - 🗣 Communication between both Gang Bosses is essential prior to the gang war. The conditions of the war need to be clearly stipulated and agreed upon by both gang bosses before the war commences.
 - 🏠 Gang wars may take place at the respective gang houses or compounds.
 - 🚔 **Fear RP**: All players, including gangs, are required to realistically fear for their lives when faced with dangerous situations. This means that even gangs must comply with demands if they are outnumbered or outgunned in a realistic manner.
