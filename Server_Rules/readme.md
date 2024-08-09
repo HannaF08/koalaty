@@ -190,6 +190,12 @@ The following words are used in the city for out-of-city reference:
 - 🌍 Gang wars must be played out in Sandy Shores, Paleto Bay, or The Favelas (away from the city), including territory wars.
 - 🗣 Communication between both Gang Bosses is essential prior to the gang war. The conditions of the war need to be clearly stipulated and agreed upon by both gang bosses before the war commences.
 - 🏠 Gang wars may take place at the respective gang houses or compounds.
+- 🚔 **Fear RP**: All players, including gangs, are required to realistically fear for their lives when faced with dangerous situations. This means that even gangs must comply with demands if they are outnumbered or outgunned in a realistic manner.
+- ⚠️ Gangs that break gang rules will receive a Strike. Three strikes will result in the gang being disbanded. All server rules apply to gangs, and failure to comply with these rules will lead to severe consequences, including strikes and potential disbandment. Gangs are expected to operate within the same standards as other players, upholding the integrity of the roleplay experience.
+- 🚫 **Street Gangs (Non-Official Gangs)**: Street gangs are not permitted to grow beyond five members and cannot engage in activities that disrupt the balance of power among official gangs. If a street gang is found to be causing excessive disruption, they will be disbanded immediately.
+- 🤝 **Small Groups vs. Gangs**: Small groups (non-gang members) may engage in hostile actions such as robbery or taking a gang member hostage if they have a clear and justified in-character reason. However, they must be able to realistically overpower the gang members in question, either through numbers or superior tactics.
+- 🔫 **Overpowering a Gang**: Small groups attempting to rob or take a gang member hostage must be able to demonstrate a clear tactical advantage. This could be through superior numbers, better positioning, or more effective weapons. Gangs are still feared entities, but they are not invincible and must respond to realistic threats appropriately.
+- 🚓 **SAPS & ADT Involvement**: If a small group successfully overpowers a gang, SAPS and ADT may become involved to maintain order and ensure that the situation does not escalate beyond roleplay boundaries.
 
 ## 🚔 South African Police Service (SAPS)
 
