@@ -277,7 +277,7 @@ Koalaty Roleplay is supported by the following government entities, each respons
 
 - 🚓 **SAPS**: The South African Police Service, responsible for law enforcement and public safety.
 - 🚑 **EMS (NetCare)**: Emergency Medical Services, providing medical assistance and care.
-- 🛡 **ADT (Security)**: A security unit that works closely with SAPS to maintain security within the city, particularly dealing with petty theft and small crimes.
+- 🛡 **ADT (Security)**: A security unit that works closely with SAPS to maintain security within the city, particularly dealing with petty theft and small crimes, such as Tier 1 offenses.
 - 🏛 **City Hall (Department of Justice)**: Handles all legal matters, including the court system for resolving disputes and legal cases. Lawyers and legal professionals within the city operate under this department.
 
 ## 🚨 Warnings and Bans
